@@ -1,5 +1,5 @@
-
 /* ------------------------HEADER-----------------------*/
+
 body *{
   box-sizing: border-box;
 }
@@ -141,8 +141,6 @@ div {
   height: 12px;
   background-image: url(./img/hr-img.png);
 }
-
-
 
 /* ------------------------FOOTER-----------------------*/
 
